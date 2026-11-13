@@ -1,0 +1,12 @@
+TF-IDF + Logistic Regression Results
+------------------------------------
+Accuracy: 81.75%
+
+              precision    recall  f1-score   support
+
+         neg       0.84      0.79      0.81       200
+         pos       0.80      0.84      0.82       200
+
+    accuracy                           0.82       400
+   macro avg       0.82      0.82      0.82       400
+weighted avg       0.82      0.82      0.82       400
