@@ -1,0 +1,12 @@
+GloVe + Logistic Regression Results
+-----------------------------------
+Accuracy: 73.75%
+
+              precision    recall  f1-score   support
+
+         neg       0.75      0.71      0.73       200
+         pos       0.73      0.77      0.74       200
+
+    accuracy                           0.74       400
+   macro avg       0.74      0.74      0.74       400
+weighted avg       0.74      0.74      0.74       400
