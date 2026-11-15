@@ -1,0 +1,11 @@
+Review,TF-IDF,GloVe
+This movie was absolutely fantastic and the acting was brilliant.,Positive,Positive
+I hated this film. The story was boring and the acting was terrible.,Negative,Negative
+"The movie was good, but the ending was disappointing.",Positive,Positive
+"I expected it to be terrible, but it was surprisingly enjoyable.",Negative,Negative
+The film was neither good nor bad. It was just average.,Negative,Negative
+The movie was not good at all.,Positive,Positive
+"The acting was excellent, but the story was awful.",Negative,Positive
+What a wonderful waste of two hours.,Negative,Positive
+"Some scenes were great, but overall the film was disappointing.",Positive,Positive
+The movie was released in 2024 and runs for two hours.,Negative,Positive
