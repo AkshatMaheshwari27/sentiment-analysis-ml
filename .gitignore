@@ -1,0 +1,22 @@
+
+# Python virtual environments
+.venv/
+.venv313/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Downloaded NLTK corpus
+data/nltk_data/
+
+# Trained model files
+models/*.joblib
+
+# Environment variables
+.env
+.env.*
+
+# System files
+.DS_Store
